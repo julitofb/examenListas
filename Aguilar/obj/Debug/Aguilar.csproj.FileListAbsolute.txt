@@ -1,0 +1,7 @@
+D:\2do Sistemas\Tercer Bimestre\Estructura de Datos\Aguilar\Aguilar\bin\Debug\Aguilar.exe.config
+D:\2do Sistemas\Tercer Bimestre\Estructura de Datos\Aguilar\Aguilar\bin\Debug\Aguilar.exe
+D:\2do Sistemas\Tercer Bimestre\Estructura de Datos\Aguilar\Aguilar\bin\Debug\Aguilar.pdb
+D:\2do Sistemas\Tercer Bimestre\Estructura de Datos\Aguilar\Aguilar\obj\Debug\Aguilar.csproj.AssemblyReference.cache
+D:\2do Sistemas\Tercer Bimestre\Estructura de Datos\Aguilar\Aguilar\obj\Debug\Aguilar.csproj.CoreCompileInputs.cache
+D:\2do Sistemas\Tercer Bimestre\Estructura de Datos\Aguilar\Aguilar\obj\Debug\Aguilar.exe
+D:\2do Sistemas\Tercer Bimestre\Estructura de Datos\Aguilar\Aguilar\obj\Debug\Aguilar.pdb
